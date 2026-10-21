@@ -1,0 +1,7 @@
+# Development secrets and build caches
+node_modules/
+artifacts/
+cache/
+coverage/
+.env
+.env.local
